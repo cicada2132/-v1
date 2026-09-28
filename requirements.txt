@@ -1,0 +1,4 @@
+anthropic>=1.8.0
+pillow
+# DICOM 파일을 넣을 때만 필요:
+# pydicom

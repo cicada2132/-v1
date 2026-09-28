@@ -1,0 +1,16 @@
+# 측정 결과·의료 영상 (개인정보)
+results/
+*.jpg
+*.jpeg
+*.png
+*.dcm
+*.dicom
+
+# 비밀 키
+.env
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
